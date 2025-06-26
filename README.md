@@ -4,7 +4,7 @@
 
 📚 I completed my **Bachelor of Technology** in Computer Science and Engineering.
 
-🔭 Currently, I'm working on personal coding projects, continually expanding my skills in Python, Web Development and Machine Learning.
+🔭 Currently, I'm working on personal coding projects, continually expanding my skills in Python, Web Development and AI.
 
 🌱 I'm always eager to learn and explore new technologies, seeking innovative ways to solve real-world problems.
 
