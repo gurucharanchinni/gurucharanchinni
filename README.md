@@ -14,4 +14,4 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I enjoy tackling challenging coding problems in my free time, and I'm an avid fan of mythological movies and series.
+⚡ Fun fact: I enjoy tackling challenging coding problems in my free time.
